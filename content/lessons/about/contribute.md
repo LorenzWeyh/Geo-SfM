@@ -1,3 +1,5 @@
+Hallo Ich bin Lorenz
+
 (contribute)=
 # How to contribute
 
@@ -6,7 +8,7 @@
 
 This page uses [Github](https://youtu.be/w3jLJU7DT5E) as a backbone.
 All it takes is a [Github account](https://github.com/join), which even comes with student benefits.
-Once connected, feel free to open an issue as per the above - whether suggesting improvements or highlighting bugs.
+Once connected, feel free o open an issue as per the above - whether suggesting improvements or highlighting bugs.
 ```
 
 ```{admonition} GitHub how-to's and tutorial
